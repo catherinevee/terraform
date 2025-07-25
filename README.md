@@ -7,7 +7,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/catherinevee/code?style=plastic)
 
 # My Mission
-My name is Catherine Vee and I am a person who enjoys cloud networking, routing and switching, and network automation. My on-premises expertise is with Cisco and Juniper network devices, Palo Alto and Cisco security appliances, and network automation with Nornir + Ansible + Netmiko.
+My name is Catherine Vee and I am a person who enjoys cloud networking, routing and switching, and network automation. I am an expert with Terraform, Terragrunt, and Kubernetes. Check me out at https://catherine.it.com!
 
 <p align="center">
   <a href="https://skillicons.dev">
