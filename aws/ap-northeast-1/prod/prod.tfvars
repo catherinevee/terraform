@@ -1,4 +1,4 @@
-environment = "dev"
+environment = "prod"
 project = "clearmind"
 aws_region = "ap-northeast-1"
 costcenter = "devteam"

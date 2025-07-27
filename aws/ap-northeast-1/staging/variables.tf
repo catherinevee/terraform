@@ -21,7 +21,7 @@ variable "project" {
 }
 
 variable "region" {
-  description = "AWS/Azure region"
+  description = "AWS region"
   type        = string
   default     = ""
   
